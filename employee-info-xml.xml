@@ -1,0 +1,18 @@
+<!--personnel information-->
+<person>
+    <name>Emma Johnson</name>
+    <birthdate>1994-05-12</birthdate>
+    <gender>Female</gender>
+    <phonenumber>4356785546</phonenumber>
+    <address>
+        <street>354C Oak Street </street>
+        <city>Marysville</city>
+        <state>Ohio</state>
+    </address>
+    <email>emma@example.com</email>
+    <registrationnumber>235490</registrationnumber>
+    <position>
+        <department>RD</department>
+        <title>Software Test Specialist</title>
+    </position>
+</person>
