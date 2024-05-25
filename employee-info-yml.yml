@@ -1,0 +1,15 @@
+#personnel information
+person:
+  name: Emma Johnson
+  birthdate: 1994-05-12
+  gender: Female
+  phone number: 4356785546
+  address:
+    street: 354C Oak Street
+    city: Marysville
+    state: Ohio
+  email: emma@example.com
+  registration number: 235490
+  position:
+    department: RD
+    title: Software Test Specialist
